@@ -7,7 +7,8 @@ It transfers biological knowledge from annotated **single-cell RNA-seq (scRNA-se
 
 Detailed tutorials and reproducible examples are provided in the PRISM tutorial.
 
-![Uploading appendix.png…]()
+
+<img width="2134" height="3017" alt="appendix" src="https://github.com/user-attachments/assets/ac6e04db-1c39-499a-b41e-2d549d601e4b" />
 
 
 **Datasets used in this work**:
