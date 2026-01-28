@@ -5,4 +5,13 @@ It transfers biological knowledge from annotated **single-cell RNA-seq (scRNA-se
 
 <img width="2132" height="932" alt="1123" src="https://github.com/user-attachments/assets/ee0446f3-8583-40c6-86f4-08fbe618f294" />
 
+Detailed tutorials and reproducible examples are provided in the PRISM tutorial.
+
+**Datasets used in this work**:
+- **MERFISH (HIP / CB / OB) spatial transcriptomics (ST) data**:  
+  <ST data URL>
+- **Corresponding scRNA-seq reference data**:  
+  <scRNA data URL>
+
+
 
