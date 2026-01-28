@@ -13,9 +13,9 @@ Detailed tutorials and reproducible examples are provided in the PRISM tutorial.
 
 **Datasets used in this work**:
 - **MERFISH (HIP / CB / OB) spatial transcriptomics (ST) data**:  
-  <ST data URL>
+  <[ST data URL](https://www.dropbox.com/scl/fo/ibq6eot9n2y4y27r1sjym/AK83E-TQFRa7tBvdS7pWYsI?rlkey=vq5a1odg5ezsd3jte8nm45vbv&st=uak674w1&dl=0)>
 - **Corresponding scRNA-seq reference data**:  
-  <scRNA data URL>
+  <[scRNA data URL](https://www.dropbox.com/scl/fo/90hz79boh9huu94tolo12/AORr0vpjmWQ6IUivLtpxNQo?rlkey=8m1sgk1tviv6lsoc8214vok7g&st=q3yhf2y0&dl=0)>
 
 
 
