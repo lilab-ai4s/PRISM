@@ -1,0 +1,19 @@
+name: dsct
+channels: [pytorch, conda-forge, bioconda]
+dependencies:
+  - python=3.9
+  - pytorch=1.13
+  - cudatoolkit=11.6
+  - scanpy>=1.9
+  - anndata>=0.8
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - pyg
+  - pip
+  - pip:
+      - diopy
+      # Install DSCT directly from the upstream repo:
+      #   git clone https://github.com/THU-Wangjj/DSCT
+      #   pip install -e DSCT

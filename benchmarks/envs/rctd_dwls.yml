@@ -1,0 +1,13 @@
+name: rctd_dwls
+channels: [conda-forge, bioconda, r]
+dependencies:
+  - r-base=4.2
+  - r-matrix
+  - r-optparse
+  - r-devtools
+  - r-biocmanager
+  - bioconductor-singlecellexperiment
+  - bioconductor-summarizedexperiment
+  # RCTD (spacexr) and Giotto are installed from GitHub at first run:
+  #   R -e 'devtools::install_github("dmcable/spacexr", build_vignettes = FALSE)'
+  #   R -e 'devtools::install_github("RubD/Giotto")'

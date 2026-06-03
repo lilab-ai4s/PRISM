@@ -1,0 +1,19 @@
+name: spatialid
+channels: [pytorch, conda-forge, bioconda]
+dependencies:
+  - python=3.9
+  - pytorch=1.12
+  - cudatoolkit=11.3
+  - scanpy>=1.9
+  - anndata>=0.8
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - pyg
+  - pip
+  - pip:
+      - diopy
+      # Install Spatial-ID directly from the upstream repo:
+      #   git clone https://github.com/genome-bioinformatics/Spatial-ID
+      #   pip install -e Spatial-ID
