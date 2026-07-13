@@ -19,4 +19,4 @@ Detailed tutorials and reproducible examples are provided in the PRISM tutorial.
   <[scRNA data URL](https://www.dropbox.com/scl/fo/90hz79boh9huu94tolo12/AORr0vpjmWQ6IUivLtpxNQo?rlkey=8m1sgk1tviv6lsoc8214vok7g&st=q3yhf2y0&dl=0)>
 
 
-
+Part of the AI-accelerated computations were performed on a Huawei Cloud kAi1s instance equipped with 8 CPU cores, 8 GiB RAM, and two HUAWEI Ascend 310 accelerators (8 GiB each).
