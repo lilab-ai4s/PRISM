@@ -1,5 +1,7 @@
 # PRISM: Prior-Regularized Inference for Spatial Transcriptomic Cell Type Mapping
 
+Part of the AI-accelerated computations were performed on a Huawei Cloud kAi1s instance equipped with 8 CPU cores, 8 GiB RAM, and two HUAWEI Ascend 310 accelerators (8 GiB each).
+
 PRISM is a prior-regularized framework for **cell-level cell type mapping** in spatial transcriptomics (ST).  
 It transfers biological knowledge from annotated **single-cell RNA-seq (scRNA-seq)** references to **unlabeled ST** cells.
 <img width="1450" height="630" alt="image" src="https://github.com/user-attachments/assets/dab9fdec-b773-41dd-ad34-109b877acb31" />
